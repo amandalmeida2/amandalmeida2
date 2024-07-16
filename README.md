@@ -21,6 +21,8 @@ Onde me encontrar
       <img width="50" src="https://github.com/amandalmeida2/Portifolio/blob/main/Icones/linkedin.png?raw=true"></a>
 </div>
 
+### Portifólio e Principais projetos
+
 <!--
 **amandalmeida2/amandalmeida2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
