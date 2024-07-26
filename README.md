@@ -23,7 +23,7 @@ Onde me encontrar
 </div>
 
 ### Portifólio e Principais projetos
-### Dashboard Contoso Sales Overview
+#### Dashboard Contoso Sales Overview
 <img align="right" width="400" src="https://github.com/amandalmeida2/Contoso_Sales/blob/main/Imagens/Dashboard.png?raw=true">
 Projeto de análise de vendas do banco de dados Contoso Retail, o dashboard foi desenvolvido com Power BI e teve como objetivo identificar os principais fatores que influenciam as vendas da empresa Contoso.
 <br></br>
