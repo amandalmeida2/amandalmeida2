@@ -6,6 +6,7 @@ Sobre mim:
 - 🌱 Atualmente estudando SQL, Power BI e Python
 - ✨ Curso de Business pela Greystone College Australia
 - ⚡ Inglês avançado
+- 🔭  2° lugar no Hackathon Hacking.Rio com o projeto: Rotina Delas 
 
 Principais ferramentas 
 <div>
