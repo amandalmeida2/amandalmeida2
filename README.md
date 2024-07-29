@@ -31,6 +31,16 @@ Projeto de análise de vendas do banco de dados Contoso Retail, o dashboard foi 
 <br></br>
 <a target="_blank" href="https://app.powerbi.com/view?r=eyJrIjoiNDFiMDBkOWMtYjRmYS00ZjFmLTgwZTEtYWM1YzgxZmViYWExIiwidCI6Ijc1OGRlZGVlLTk1YmItNGU2Mi05MWU2LTU3OTRiMTUwZjFhYSJ9" >Clique aqui</a> e acesse a solução desenvolvida.
 
+#### Dashboard Maio Amarelo
+<img align="right" width="400" src="https://github.com/amandalmeida2/Acidentes_de_transito_br/blob/main/Imagens/Desafio%20Maio%20Amarelo%20pg1.png?raw=true">
+
+Projeto sobre o tráfego e os acidentes nas rodovias do Brasil desenvolvido no Power BI com dados disponibilizados pela PRF referentes aos anos de 2022 e 2023. O objetivo é enriquecer o entendimento sobre as rodovias, identificar padrões, e promover a conscientização dos condutores para a segurança no trânsito.
+
+<a href="https://github.com/amandalmeida2/Acidentes_de_transito_br"> Clique aqui</a>  para acessar o repositório no Github.
+<br></br>
+
+<a target="_blank" href="https://app.powerbi.com/view?r=eyJrIjoiZjFhMDM4NjItOWM0Yi00Y2IyLTkyMDUtY2M2MGU3MmY0NGI3IiwidCI6Ijc1OGRlZGVlLTk1YmItNGU2Mi05MWU2LTU3OTRiMTUwZjFhYSJ9" >Clique aqui</a> e acesse a solução desenvolvida.
+
 <!--
 **amandalmeida2/amandalmeida2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
