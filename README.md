@@ -1,28 +1,28 @@
 ## Hi there, I'm Amanda 👋
 
-## Analista de dados
-Sobre mim:
+## Business and Data Analyst
+About me:
 
-- 🌱 Atualmente estudando SQL, Power BI e Python
-- ✨ Curso de Business pela Greystone College Australia
-- ⚡ Inglês avançado
-- 🔭  2° lugar no Hackathon Hacking.Rio com o projeto: Rotina Delas 
+- 🌱 Knowlodge in  SQL, Power BI, Python, SAP commerce cloud, Scrum / Agile, Microsoft Excel
+- ✨ Business Cours by the Greystone College Australia
+- ⚡ Fluent English
 
-Principais ferramentas 
+
+Main tools:
 <div>
 <img width="50" src="https://github.com/amandalmeida2/Portifolio/blob/main/Icones/sql.png?raw=true">
 <img width="50" src="https://github.com/amandalmeida2/Portifolio/blob/main/Icones/power%20bi.png?raw=true">
 <img width="50" src="https://github.com/amandalmeida2/Portifolio/blob/main/Icones/python.png?raw=true">
 </div>
 <br></br>
-Onde me encontrar
+Where to find me:
 <br></br>
 <div>
   <a href="https://www.linkedin.com/in/amanda16almeida/">
       <img width="50" src="https://github.com/amandalmeida2/Portifolio/blob/main/Icones/linkedin.png?raw=true"></a>
 </div>
 
-### Portifólio e Principais projetos
+### Main projects
 #### Dashboard Contoso Sales Overview
 <img align="right" width="400" src="https://github.com/amandalmeida2/Contoso_Sales/blob/main/Imagens/Dashboard.png?raw=true">
 Projeto de análise de vendas do banco de dados Contoso Retail, o dashboard foi desenvolvido com Power BI e teve como objetivo identificar os principais fatores que influenciam as vendas da empresa Contoso.
