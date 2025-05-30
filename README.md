@@ -4,7 +4,7 @@
 About me:
 
 - 🌱 Knowlodge in  SQL, Power BI, Python, SAP commerce cloud, Scrum / Agile, Microsoft Excel
-- ✨ Business Cours by the Greystone College Australia
+- ✨ Business Course by the Greystone College Australia
 - ⚡ Fluent English
 
 
